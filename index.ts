@@ -1,7 +1,6 @@
 #! /usr/bin/env node
  
-console.log("Welcome to ATM!")
-
+console.log ("Welcome to ATM!");
 import inquirer from "inquirer";
 
 let currentBalance = 10000;
