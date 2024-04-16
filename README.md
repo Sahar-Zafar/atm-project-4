@@ -1,2 +1,2 @@
 # to-do-list-project-5
-This is a simple to-do list where you can create, manage, and organize your tasks effectively. Built with simplicity and ease of use in mind, this application allows you to add, edit, and delete tasks as needed.
+ Step up to this sleek, experience seamless functionality from start to finish. Whether you're withdrawing cash, depositing funds, or checking your balance, this ATM is your personal gateway to financial freedom.
