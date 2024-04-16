@@ -1,8 +1,8 @@
 #! /usr/bin/env node
  
-console.log ("Welcome to ATM!");
+import chalk from "chalk";
 import inquirer from "inquirer";
-
+console.log (chalk.bgCyanBright("Welcome to ATM!"));
 let currentBalance = 10000;
 
 let pinCode = 9086;
