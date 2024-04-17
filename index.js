@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import chalk from "chalk";
 import inquirer from "inquirer";
-console.log(chalk.bgCyanBright("Welcome to ATM!"));
+console.log(chalk.green("Welcome to ATM!"));
 let currentBalance = 10000;
 let pinCode = 9086;
 let pinAnswer = await inquirer.prompt([
